@@ -7,7 +7,8 @@ locale: en
 #for meta name="author" :
 author: takagotch
 
-baseurl: https://takagotch.github.io/page95/
+url:
+baseurl: 
 
 #Target date in UTC / GMT
 countdown:
