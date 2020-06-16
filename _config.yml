@@ -12,7 +12,7 @@ baseurl:
 
 #Target date in UTC / GMT
 countdown:
-  theme: red
+  theme: yellow
   year: 2020
   month: 1
   day: 1
