@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: "Your Awesome Site"
+title: "TKVTV"
 description: "A Coming Soon Template"
 #if you modify locale please have a look at _data/messages.yml too
 locale: en
@@ -40,3 +40,4 @@ highlighter: rouge
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+
