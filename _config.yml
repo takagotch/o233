@@ -5,7 +5,7 @@ description: "取引量No.1！ *当社比"
 #if you modify locale please have a look at _data/messages.yml too
 locale: en
 #for meta name="author" :
-author: 
+author: takagotch
 
 #Target date in UTC / GMT
 countdown:
@@ -18,11 +18,11 @@ countdown:
 
 # Site owner
 owner:
-  name:
+  name: takagotch
   email:
   twitter:
   google-plus:
-  instagramm:
+  instagram:
   #Aboutlink = German "Impressum", provide url and caption (eg "Impressum")
   aboutlink:
     url:      https://takagotch.github.io/page95/
